@@ -1,2 +1,2 @@
 # Excel_Projects
-Includes all the practice exercises and projects from beginner to advanced level. 
+Includes all the Excel practice exercises and projects from beginner to advanced level. 
